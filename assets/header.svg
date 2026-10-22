@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 290" width="880" height="290" role="img" aria-label="Terminal: Alejandro López Santos, desarrollador fullstack en Valencia, Venezuela">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:17px}
+.l{opacity:0;animation:in .45s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.cur{animation:none}}
+</style>
+<rect width="880" height="290" rx="18" fill="#11153a"/>
+<rect width="880" height="44" rx="18" fill="#1a1f4d"/><rect y="26" width="880" height="18" fill="#1a1f4d"/>
+<circle cx="30" cy="22" r="6.5" fill="#ffcc33"/><circle cx="52" cy="22" r="6.5" fill="#5b8cff"/><circle cx="74" cy="22" r="6.5" fill="#ff6b6b"/>
+<text x="440.0" y="27" text-anchor="middle" fill="#9aa3d6" style="font-size:13px">alejandro@valencia: ~</text>
+<text class="l" style="animation-delay:0.25s" x="36" y="92"><tspan fill="#ffcc33" font-weight="700">$ </tspan><tspan fill="#eef0ff">whoami</tspan></text><text class="l" style="animation-delay:0.80s" x="36" y="122"><tspan fill="#eef0ff" font-weight="700">Alejandro López Santos · fullstack dev</tspan></text><text class="l" style="animation-delay:1.35s" x="36" y="150"><tspan fill="#9aa3d6">Ing. de Computación @ UJAP · Valencia, Venezuela</tspan></text><text class="l" style="animation-delay:1.90s" x="36" y="190"><tspan fill="#ffcc33" font-weight="700">$ </tspan><tspan fill="#eef0ff">cat estado.txt</tspan></text><text class="l" style="animation-delay:2.45s" x="36" y="220"><tspan fill="#5ee6a8" font-weight="700">[ok] </tspan><tspan fill="#eef0ff">sistemas reales para clientes reales</tspan></text><text class="l" style="animation-delay:3.00s" x="36" y="250"><tspan fill="#ffcc33" font-weight="700">[..] </tspan><tspan fill="#eef0ff">buscando mi primer equipo de dev</tspan></text>
+<rect class="cur" x="417" y="236" width="10" height="19" fill="#ffcc33"/>
+<g fill="#ffcc33" opacity=".9"><polygon points="655.7,189.5 658.2,196.1 665.2,196.4 659.7,200.8 661.6,207.6 655.7,203.7 649.9,207.6 651.7,200.8 646.2,196.4 653.3,196.1"/><polygon points="672.2,160.9 674.7,167.5 681.7,167.8 676.2,172.2 678.1,179.0 672.2,175.1 666.3,179.0 668.2,172.2 662.7,167.8 669.8,167.5"/><polygon points="697.5,139.7 700.0,146.3 707.0,146.6 701.5,151.0 703.4,157.8 697.5,153.9 691.6,157.8 693.5,151.0 688.0,146.6 695.0,146.3"/><polygon points="728.5,128.4 731.0,135.0 738.0,135.4 732.5,139.7 734.4,146.5 728.5,142.6 722.6,146.5 724.5,139.7 719.0,135.4 726.0,135.0"/><polygon points="761.5,128.4 764.0,135.0 771.0,135.4 765.5,139.7 767.4,146.5 761.5,142.6 755.6,146.5 757.5,139.7 752.0,135.4 759.0,135.0"/><polygon points="792.5,139.7 795.0,146.3 802.0,146.6 796.5,151.0 798.4,157.8 792.5,153.9 786.6,157.8 788.5,151.0 783.0,146.6 790.0,146.3"/><polygon points="817.8,160.9 820.2,167.5 827.3,167.8 821.8,172.2 823.7,179.0 817.8,175.1 811.9,179.0 813.8,172.2 808.3,167.8 815.3,167.5"/><polygon points="834.3,189.5 836.7,196.1 843.8,196.4 838.3,200.8 840.1,207.6 834.3,203.7 828.4,207.6 830.3,200.8 824.8,196.4 831.8,196.1"/></g>
+<text x="745" y="240" text-anchor="middle" fill="#9aa3d6" style="font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:2px">HECHO EN VENEZUELA</text>
+</svg>
